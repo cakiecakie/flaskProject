@@ -1,1 +1,2 @@
 this is a file to be deleted.
+this will be in work blank when a bug  appeard.
