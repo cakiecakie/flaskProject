@@ -5,3 +5,4 @@ Git tracks changes of files.
 change in dev branch.
 Creating a new branch is quick and simple.
 this will be commited by dev branch.
+this will be staged by dev branch when a bug appeard.
